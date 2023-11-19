@@ -6,7 +6,7 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    // add ur api details
+  //  enter ur firebase api
   };
 
   // Initialize Firebase
